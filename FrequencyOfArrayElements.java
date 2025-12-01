@@ -4,7 +4,7 @@ public class FrequencyOfArrayElements {
     public static void main(String[] args) {
         // Given Array
         int[] a = {1,2,5,1,4,51,4,6,24,1,5,2,3,6,8,7,45,24,6,25,21,52,45,2,45};
-       // Method Calling9o
+       // Method Calling
         getFrequency(a);
     }
     // Method to find nd print frequency of each elements int the array
