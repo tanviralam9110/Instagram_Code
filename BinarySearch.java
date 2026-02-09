@@ -11,7 +11,6 @@ public class BinarySearch {
         else {
             System.out.println("Element not found in the array");
         }
-
     }
     // Binary Search function to find the index of a given key
     public static int searchElement(int[] a, int key){
